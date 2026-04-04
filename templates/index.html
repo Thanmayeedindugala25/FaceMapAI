@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Map AI - Driver Monitoring</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <!-- Google Fonts: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body class="dashboard-body">
+
+    <!-- 1. Top Navbar -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <div class="brand-logo">🛡️</div>
+            <div class="brand-text">
+                <h1 class="nav-title">Face Map AI</h1>
+                <p class="nav-subtitle">Real-time Driver Monitoring</p>
+            </div>
+        </div>
+        <div class="nav-right">
+            <div class="mode-switch">
+                <button class="tab-btn active" data-mode="webcam">📹 Webcam</button>
+                <button class="tab-btn" data-mode="image">📷 Upload Image</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 2. Main Dashboard Layout -->
+    <main class="dashboard-container">
+
+        <!-- LEFT COLUMN: Visuals (70%) -->
+        <div class="visual-col">
+
+            <!-- Webcam Panel -->
+            <div id="input-panel-webcam" class="visual-panel active">
+                <div class="webcam-wrapper">
+                    <!-- Live Feed -->
+                    <div class="video-container">
+                        <img id="webcam-feed" alt="Live Feed" class="live-feed">
+                        <!-- Overlay for status text -->
+                        <div id="webcam-status" class="overlay-container">
+                            <div class="placeholder-content">
+                                <div class="icon-large">📹</div>
+                                <p>Initialize Camera to Start</p>
+                                <button id="start-webcam" class="btn btn-primary btn-lg">▶ Start Monitoring</button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Controls below video -->
+                    <div class="panel-controls">
+                        <button id="stop-webcam" class="btn btn-danger" disabled>⏹ Stop</button>
+                        <p id="webcam-status-text" class="status-indicator">System Standby</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Image Upload Panel -->
+            <div id="input-panel-image" class="visual-panel" style="display: none;">
+                <div class="upload-wrapper">
+                    <!-- Upload Area -->
+                    <div id="upload-area" class="upload-zone">
+                        <div class="icon-large">📂</div>
+                        <h3>Drag & Drop Image</h3>
+                        <p>or click to browse</p>
+                        <input type="file" id="file-input" hidden accept="image/*">
+                        <button class="btn btn-secondary">Browse
+                            Files</button>
+                    </div>
+
+                    <!-- Process Button -->
+                    <div class="action-bar">
+                        <button id="process-btn" class="btn btn-primary btn-block" disabled>🔍 Analyze Image</button>
+                    </div>
+
+                    <!-- Image Results (Original + Processed) -->
+                    <div id="results-view" class="results-grid" style="display: none;">
+                        <div class="image-card">
+                            <span class="badge">Original</span>
+                            <div id="preview" class="img-container">
+                                <img id="original-img" src="" alt="Original">
+                                <!-- Also used for preview before processing: id "preview-img" is usually the target in main.js setup for file reader -->
+                                <img id="preview-img" src="" alt="Preview" style="display:none;">
+                            </div>
+                        </div>
+                        <div class="image-card">
+                            <span class="badge">Processed</span>
+                            <div class="img-container">
+                                <img id="processed-img" src="" alt="Processed">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Empty State for Image Mode -->
+                    <div id="empty-state" class="empty-placeholder" style="display: none;">
+                        <!-- Content handled by JS toggling results-view/empty-state -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- RIGHT COLUMN: AI Insights (30%) -->
+        <div class="insights-col">
+            <div class="insights-header">
+                <h2>📊 AI Insights</h2>
+            </div>
+
+            <div class="cards-grid">
+                <!-- A) Drowsiness Status (Prime Location) -->
+                <div id="status-card" class="insight-card main-status">
+                    <h3 class="card-label">Driver Status</h3>
+                    <div class="status-display">
+                        <span id="detection-message" class="status-text">WAITING...</span>
+                    </div>
+                </div>
+
+                <!-- B) EAR Value -->
+                <div class="insight-card">
+                    <h3 class="card-label">Eye Aspect Ratio (EAR)</h3>
+                    <div class="metric-value" id="stat-ear">--</div>
+                </div>
+
+                <!-- C) Risk Meter -->
+                <div class="insight-card">
+                    <h3 class="card-label">Risk Level</h3>
+                    <div class="risk-bar-container">
+                        <div id="risk-meter" class="risk-fill low"></div>
+                    </div>
+                    <span id="risk-text" class="risk-label">Low</span>
+                </div>
+
+                <!-- D) Face Detected -->
+                <div class="insight-card half">
+                    <h3 class="card-label">Face</h3>
+                    <div class="metric-value highlight" id="stat-faces">0</div>
+                </div>
+
+                <!-- E) Mouth Aspect Ratio (MAR) -->
+                <div class="insight-card half">
+                    <h3 class="card-label">Mouth (MAR)</h3>
+                    <div class="metric-value" id="stat-mar">--</div>
+                </div>
+
+                <!-- F) Head Pitch (Posture) -->
+                <div class="insight-card half">
+                    <h3 class="card-label">Posture (Pitch)</h3>
+                    <div class="metric-value" id="stat-pitch">--</div>
+                </div>
+
+                <!-- E) Landmark Count -->
+                <div class="insight-card half">
+                    <h3 class="card-label">Landmarks</h3>
+                    <div class="metric-value highlight" id="stat-landmarks">0</div>
+                </div>
+
+                <!-- F) Processing Time -->
+                <div class="insight-card">
+                    <h3 class="card-label">Latency</h3>
+                    <div class="metric-value" id="stat-time">0 ms</div>
+                </div>
+
+                <!-- G) Sound Status -->
+                <div class="insight-card">
+                    <h3 class="card-label">Audio Alert</h3>
+                    <div class="toggle-status">
+                        <span id="sound-status">ON</span>
+                        <div class="indicator active"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bottom Actions -->
+            <div class="panel-actions">
+                <a id="download-link" class="btn btn-outline" style="display: none;" download="result.jpg">⬇
+                    Download</a>
+                <button id="clear-result" class="btn btn-outline">🗑 Clear</button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast">
+        <div class="toast-icon"></div>
+        <div class="toast-message"></div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loader-overlay" style="display: none;">
+        <div class="spinner"></div>
+        <p>Analyzing...</p>
+    </div>
+
+    <!-- Hidden audio for alarms -->
+    <audio id="alarmSound" src="/static/sounds/alarm.mp3" preload="auto"></audio>
+
+    <script src="static/js/main.js"></script>
+</body>
+
+</html>

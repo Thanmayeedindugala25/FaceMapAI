@@ -1,0 +1,2158 @@
+[
+  {
+    "timestamp": "2026-02-18T19:16:23.023039",
+    "mode": "webcam",
+    "ear": 0.1449,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_191623_023039.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:16:25.994520",
+    "mode": "webcam",
+    "ear": 0.1462,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_191625_994520.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:26:49.203269",
+    "mode": "webcam",
+    "ear": 0.1169,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192649_203269.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:26:53.575020",
+    "mode": "webcam",
+    "ear": 0.1364,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192653_575020.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:26:57.807024",
+    "mode": "webcam",
+    "ear": 0.0484,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192657_807024.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:27:05.907196",
+    "mode": "webcam",
+    "ear": 0.1377,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192705_907196.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:27:13.767007",
+    "mode": "webcam",
+    "ear": 0.1465,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192713_767007.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:27:24.136570",
+    "mode": "webcam",
+    "ear": 0.0341,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_192724_136570.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:30:47.662230",
+    "mode": "webcam",
+    "ear": 0.0858,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193047_662230.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:30:50.716957",
+    "mode": "webcam",
+    "ear": 0.222,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193050_716957.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:30:55.713789",
+    "mode": "webcam",
+    "ear": 0.0885,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193055_713789.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:31:10.721032",
+    "mode": "webcam",
+    "ear": 0.2028,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193110_721032.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:31:14.539779",
+    "mode": "webcam",
+    "ear": 0.2336,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193114_539779.jpg"
+  },
+  {
+    "timestamp": "2026-02-18T19:31:22.249244",
+    "mode": "webcam",
+    "ear": 0.199,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260218_193122_249244.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:03.743412",
+    "mode": "webcam",
+    "ear": 0.108,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101503_743412.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:09.508714",
+    "mode": "webcam",
+    "ear": 0.1536,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101509_508714.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:25.934107",
+    "mode": "webcam",
+    "ear": 0.1893,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101525_934107.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:29.073115",
+    "mode": "webcam",
+    "ear": 0.1835,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101529_073115.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:31.981127",
+    "mode": "webcam",
+    "ear": 0.1925,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101531_981127.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:38.862171",
+    "mode": "webcam",
+    "ear": 0.208,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101538_862171.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:47.268547",
+    "mode": "webcam",
+    "ear": 0.2318,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101547_268547.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:49.300862",
+    "mode": "webcam",
+    "ear": 0.0911,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101549_300862.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T10:15:59.219728",
+    "mode": "webcam",
+    "ear": 0.1612,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_101559_219728.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:12:06.154308",
+    "mode": "webcam",
+    "ear": 0.0722,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_111206_154308.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:12:08.635141",
+    "mode": "webcam",
+    "ear": 0.0845,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_111208_635141.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:12:26.591838",
+    "mode": "webcam",
+    "ear": 0.0892,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_111226_591838.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:12:28.610542",
+    "mode": "webcam",
+    "ear": 0.1103,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_111228_610542.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:12:36.317198",
+    "mode": "webcam",
+    "ear": 0.1402,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_111236_317198.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:49:26.338612",
+    "mode": "webcam",
+    "ear": 0.1906,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_114926_338612.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T11:49:28.406726",
+    "mode": "webcam",
+    "ear": 0.1808,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_114928_406726.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T12:31:01.744004",
+    "mode": "webcam",
+    "ear": 0.2321,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_123101_744004.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T12:31:04.575624",
+    "mode": "webcam",
+    "ear": 0.2349,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_123104_575624.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T14:27:35.799494",
+    "mode": "webcam",
+    "ear": 0.1442,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_142735_799494.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T14:27:38.099697",
+    "mode": "webcam",
+    "ear": 0.1319,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_142738_099697.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T14:27:41.494248",
+    "mode": "webcam",
+    "ear": 0.2233,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_142741_494248.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:04:08.105242",
+    "mode": "webcam",
+    "ear": 0.1437,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_150408_105242.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:04:10.853543",
+    "mode": "webcam",
+    "ear": 0.1035,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_150410_853543.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:04:15.603519",
+    "mode": "webcam",
+    "ear": 0.1039,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_150415_603519.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:04:22.890002",
+    "mode": "webcam",
+    "ear": 0.1727,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_150422_890002.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:28:30.417450",
+    "mode": "webcam",
+    "ear": 0.1292,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_152830_417450.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:28:32.748732",
+    "mode": "webcam",
+    "ear": 0.0694,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_152832_748732.jpg"
+  },
+  {
+    "timestamp": "2026-02-19T15:28:34.919373",
+    "mode": "webcam",
+    "ear": 0.2277,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260219_152834_920325.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:01:44.486965",
+    "mode": "webcam",
+    "ear": 0.1493,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140144_486965.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:01:46.561984",
+    "mode": "webcam",
+    "ear": 0.2048,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140146_561984.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:01:55.238564",
+    "mode": "webcam",
+    "ear": 0.0956,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140155_238564.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:01:57.359661",
+    "mode": "webcam",
+    "ear": 0.1283,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140157_359661.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:08.617271",
+    "mode": "webcam",
+    "ear": 0.0999,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140208_617271.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:14.087915",
+    "mode": "webcam",
+    "ear": 0.0963,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140214_087915.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:16.325755",
+    "mode": "webcam",
+    "ear": 0.2005,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140216_325755.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:21.409970",
+    "mode": "webcam",
+    "ear": 0.1111,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140221_409970.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:46.601605",
+    "mode": "webcam",
+    "ear": 0.0866,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140246_601605.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:48.702164",
+    "mode": "webcam",
+    "ear": 0.0806,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140248_702164.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:02:58.526755",
+    "mode": "webcam",
+    "ear": 0.0583,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140258_526755.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:03:00.621290",
+    "mode": "webcam",
+    "ear": 0.1421,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140300_621290.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:03:16.790125",
+    "mode": "webcam",
+    "ear": 0.0492,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140316_790125.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:03:18.821235",
+    "mode": "webcam",
+    "ear": 0.0462,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140318_821235.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:03:20.914551",
+    "mode": "webcam",
+    "ear": 0.0621,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140320_914551.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:03:25.559481",
+    "mode": "webcam",
+    "ear": 0.0639,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140325_559481.jpg"
+  },
+  {
+    "timestamp": "2026-03-04T14:04:14.251114",
+    "mode": "webcam",
+    "ear": 0.0438,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260304_140414_251114.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:25:33.041003",
+    "mode": "webcam",
+    "ear": 0.1911,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212533_041003.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:25:35.146681",
+    "mode": "webcam",
+    "ear": 0.2225,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212535_146681.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:25:38.808622",
+    "mode": "webcam",
+    "ear": 0.0815,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212538_808622.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:25:40.818787",
+    "mode": "webcam",
+    "ear": 0.1186,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212540_818787.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:25:42.862079",
+    "mode": "webcam",
+    "ear": 0.0969,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212542_862079.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:26:32.430680",
+    "mode": "webcam",
+    "ear": 0.2111,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212632_430680.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:27:47.181976",
+    "mode": "webcam",
+    "ear": 0.2193,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212747_181976.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:29:27.477357",
+    "mode": "webcam",
+    "ear": 0.1973,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212927_477357.jpg"
+  },
+  {
+    "timestamp": "2026-03-06T21:29:41.708838",
+    "mode": "webcam",
+    "ear": 0.213,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260306_212941_708838.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:36.315849",
+    "mode": "webcam",
+    "ear": 0.2605,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152136_315849.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:38.336092",
+    "mode": "webcam",
+    "ear": 0.3047,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152138_336092.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:40.371976",
+    "mode": "webcam",
+    "ear": 0.2257,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152140_371976.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:53.592056",
+    "mode": "webcam",
+    "ear": 0.0706,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152153_592056.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:55.607838",
+    "mode": "webcam",
+    "ear": 0.0856,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152155_607838.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:21:58.605919",
+    "mode": "webcam",
+    "ear": 0.377,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152158_605919.jpg"
+  },
+  {
+    "timestamp": "2026-03-07T15:22:18.485342",
+    "mode": "webcam",
+    "ear": 0.238,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260307_152218_485342.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T15:45:39.431868",
+    "mode": "image",
+    "ear": 0.0863,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_image_20260309_154539_431868.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T16:05:13.074562",
+    "mode": "image",
+    "ear": 0.0863,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_image_20260309_160513_074562.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T20:51:28.255035",
+    "mode": "image",
+    "ear": 0.0863,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_image_20260309_205128_255035.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T20:53:11.763200",
+    "mode": "webcam",
+    "ear": 0.0666,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_205311_763200.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T20:53:18.493742",
+    "mode": "webcam",
+    "ear": 0.0417,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_205318_493742.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T20:53:23.130446",
+    "mode": "webcam",
+    "ear": 0.3734,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_205323_130446.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T20:53:26.516257",
+    "mode": "webcam",
+    "ear": 0.2408,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_205326_516257.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T21:00:27.433594",
+    "mode": "webcam",
+    "ear": 0.1922,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_210027_433594.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T21:00:30.513200",
+    "mode": "webcam",
+    "ear": 0.1514,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_210030_513200.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T21:01:54.269102",
+    "mode": "image",
+    "ear": 0.0385,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_image_20260309_210154_269102.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T21:02:22.637556",
+    "mode": "webcam",
+    "ear": 0.1675,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_210222_637556.jpg"
+  },
+  {
+    "timestamp": "2026-03-09T21:02:30.737952",
+    "mode": "webcam",
+    "ear": 0.2795,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260309_210230_737952.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T18:25:48.682941",
+    "mode": "webcam",
+    "ear": 0.2415,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_182548_682941.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T18:25:52.137473",
+    "mode": "webcam",
+    "ear": 0.2172,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_182552_137473.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T18:25:59.680106",
+    "mode": "webcam",
+    "ear": 0.3583,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_182559_680106.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T18:26:02.786109",
+    "mode": "webcam",
+    "ear": 0.3829,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_182602_786109.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T18:26:11.653622",
+    "mode": "webcam",
+    "ear": 0.2312,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_182611_653622.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:09:52.044698",
+    "mode": "webcam",
+    "ear": 0.2414,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_220952_044698.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:09:54.782302",
+    "mode": "webcam",
+    "ear": 0.1805,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_220954_782302.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:09:56.803490",
+    "mode": "webcam",
+    "ear": 0.4374,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_220956_803490.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:03.379119",
+    "mode": "webcam",
+    "ear": 0.1795,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221003_379119.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:09.954165",
+    "mode": "webcam",
+    "ear": 0.0966,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221009_954165.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:22.478709",
+    "mode": "webcam",
+    "ear": 0.3583,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221022_478709.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:25.161025",
+    "mode": "webcam",
+    "ear": 0.2826,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221025_161025.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:27.751652",
+    "mode": "webcam",
+    "ear": 0.1485,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221027_751652.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:30.679089",
+    "mode": "webcam",
+    "ear": 0.2958,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221030_679089.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:10:35.767312",
+    "mode": "webcam",
+    "ear": 0.1274,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221035_767312.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:15.745793",
+    "mode": "webcam",
+    "ear": 0.3783,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221115_745793.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:20.039331",
+    "mode": "webcam",
+    "ear": 0.3454,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221120_039331.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:26.317209",
+    "mode": "webcam",
+    "ear": 0.3765,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221126_317209.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:29.441265",
+    "mode": "webcam",
+    "ear": 0.3836,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221129_441265.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:39.202002",
+    "mode": "webcam",
+    "ear": 0.2179,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221139_202002.jpg"
+  },
+  {
+    "timestamp": "2026-03-11T22:11:45.352206",
+    "mode": "webcam",
+    "ear": 0.1763,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260311_221145_352206.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T14:21:19.206721",
+    "mode": "webcam",
+    "ear": 0.3642,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_142119_206721.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T14:21:23.668880",
+    "mode": "webcam",
+    "ear": 0.0943,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_142123_668880.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:04:51.073999",
+    "mode": "webcam",
+    "ear": 0.3502,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150451_073999.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:04:53.109492",
+    "mode": "webcam",
+    "ear": 0.3504,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150453_109492.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:04:55.111326",
+    "mode": "webcam",
+    "ear": 0.173,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150455_111326.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:04:57.156980",
+    "mode": "webcam",
+    "ear": 0.4179,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150457_156980.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:04:59.171372",
+    "mode": "webcam",
+    "ear": 0.3238,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150459_171372.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:01.198473",
+    "mode": "webcam",
+    "ear": 0.2787,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150501_198473.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:03.199990",
+    "mode": "webcam",
+    "ear": 0.3415,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150503_199990.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:05.231745",
+    "mode": "webcam",
+    "ear": 0.3394,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150505_231745.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:08.849613",
+    "mode": "webcam",
+    "ear": 0.3661,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150508_849613.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:10.866439",
+    "mode": "webcam",
+    "ear": 0.2737,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150510_866439.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:12.881643",
+    "mode": "webcam",
+    "ear": 0.3553,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150512_881643.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:14.919596",
+    "mode": "webcam",
+    "ear": 0.1425,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150514_919596.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:16.942340",
+    "mode": "webcam",
+    "ear": 0.3601,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150516_942340.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:19.661895",
+    "mode": "webcam",
+    "ear": 0.3767,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150519_661895.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:21.691879",
+    "mode": "webcam",
+    "ear": 0.2708,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150521_691879.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:23.719797",
+    "mode": "webcam",
+    "ear": 0.3378,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150523_719797.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:26.222885",
+    "mode": "webcam",
+    "ear": 0.3859,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150526_222885.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:28.242139",
+    "mode": "webcam",
+    "ear": 0.28,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150528_242139.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:30.272220",
+    "mode": "webcam",
+    "ear": 0.3087,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150530_272220.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:32.287970",
+    "mode": "webcam",
+    "ear": 0.1786,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150532_287970.jpg"
+  },
+  {
+    "timestamp": "2026-03-12T15:05:57.481162",
+    "mode": "webcam",
+    "ear": 0.3903,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260312_150557_481162.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:24.964075",
+    "mode": "webcam",
+    "ear": 0.3831,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200824_964075.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:26.994417",
+    "mode": "webcam",
+    "ear": 0.4064,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200826_994417.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:30.013979",
+    "mode": "webcam",
+    "ear": 0.3849,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200830_013979.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:32.038834",
+    "mode": "webcam",
+    "ear": 0.4226,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200832_038834.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:34.100991",
+    "mode": "webcam",
+    "ear": 0.4734,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200834_100991.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:36.107311",
+    "mode": "webcam",
+    "ear": 0.4299,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200836_107311.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:39.677070",
+    "mode": "webcam",
+    "ear": 0.4833,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200839_677070.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:44.205923",
+    "mode": "webcam",
+    "ear": 0.3938,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200844_205923.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:46.311842",
+    "mode": "webcam",
+    "ear": 0.4373,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200846_311842.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:48.366092",
+    "mode": "webcam",
+    "ear": 0.4326,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200848_366092.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:50.404072",
+    "mode": "webcam",
+    "ear": 0.3863,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200850_404072.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:54.707222",
+    "mode": "webcam",
+    "ear": 0.3848,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200854_707222.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:57.244472",
+    "mode": "webcam",
+    "ear": 0.392,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200857_244472.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:08:59.254075",
+    "mode": "webcam",
+    "ear": 0.4054,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200859_254075.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:01.318799",
+    "mode": "webcam",
+    "ear": 0.3835,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200901_318799.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:04.018304",
+    "mode": "webcam",
+    "ear": 0.4119,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200904_018304.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:06.035771",
+    "mode": "webcam",
+    "ear": 0.5276,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200906_035771.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:11.416349",
+    "mode": "webcam",
+    "ear": 0.4304,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200911_416349.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:13.434276",
+    "mode": "webcam",
+    "ear": 0.4469,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200913_434276.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:15.524253",
+    "mode": "webcam",
+    "ear": 0.3791,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200915_524253.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:23.584148",
+    "mode": "webcam",
+    "ear": 0.5298,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200923_584148.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:25.816746",
+    "mode": "webcam",
+    "ear": 0.2308,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200925_823327.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:28.916676",
+    "mode": "webcam",
+    "ear": 0.1814,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200928_916676.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:52.363603",
+    "mode": "webcam",
+    "ear": 0.5836,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200952_363603.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:56.039714",
+    "mode": "webcam",
+    "ear": 0.4271,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200956_039714.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:09:58.076087",
+    "mode": "webcam",
+    "ear": 0.3073,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_200958_076087.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:01.234101",
+    "mode": "webcam",
+    "ear": 0.1445,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201001_234101.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:03.289963",
+    "mode": "webcam",
+    "ear": 0.0405,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201003_289963.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:09.028148",
+    "mode": "webcam",
+    "ear": 0.3171,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201009_028148.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:11.158525",
+    "mode": "webcam",
+    "ear": 0.218,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201011_158525.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:17.993665",
+    "mode": "webcam",
+    "ear": 0.3338,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201017_993665.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:20.986109",
+    "mode": "webcam",
+    "ear": 0.4334,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201020_986109.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T20:10:23.003623",
+    "mode": "webcam",
+    "ear": 0.1862,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_201023_003623.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:22.743601",
+    "mode": "webcam",
+    "ear": 0.4606,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234922_743601.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:24.791070",
+    "mode": "webcam",
+    "ear": 0.3854,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234924_791070.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:27.164063",
+    "mode": "webcam",
+    "ear": 0.106,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234927_164063.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:32.494843",
+    "mode": "webcam",
+    "ear": 0.4838,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234932_494843.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:34.519961",
+    "mode": "webcam",
+    "ear": 0.3971,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234934_519961.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:36.637593",
+    "mode": "webcam",
+    "ear": 0.4516,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234936_637593.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:39.032695",
+    "mode": "webcam",
+    "ear": 0.4516,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234939_032695.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:44.214334",
+    "mode": "webcam",
+    "ear": 0.3491,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234944_214334.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:49.646663",
+    "mode": "webcam",
+    "ear": 0.265,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234949_646663.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:51.705401",
+    "mode": "webcam",
+    "ear": 0.0386,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234951_705401.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:49:55.603724",
+    "mode": "webcam",
+    "ear": 0.3789,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_234955_603724.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:03.446458",
+    "mode": "webcam",
+    "ear": 0.139,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235003_446458.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:05.461382",
+    "mode": "webcam",
+    "ear": 0.0647,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235005_461382.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:11.133558",
+    "mode": "webcam",
+    "ear": 0.2746,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235011_133558.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:15.114939",
+    "mode": "webcam",
+    "ear": 0.2653,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235015_114939.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:17.176866",
+    "mode": "webcam",
+    "ear": 0.4038,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235017_176866.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:21.073040",
+    "mode": "webcam",
+    "ear": 0.4212,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235021_073040.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:25.973169",
+    "mode": "webcam",
+    "ear": 0.407,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235025_973169.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:28.386502",
+    "mode": "webcam",
+    "ear": 0.4256,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235028_386502.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:33.197749",
+    "mode": "webcam",
+    "ear": 0.3722,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235033_197749.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:35.277021",
+    "mode": "webcam",
+    "ear": 0.3472,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235035_277021.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:49.764257",
+    "mode": "webcam",
+    "ear": 0.3825,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235049_764257.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:50:55.201102",
+    "mode": "webcam",
+    "ear": 0.4087,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235055_201102.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:00.118250",
+    "mode": "webcam",
+    "ear": 0.417,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235100_118250.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:02.293345",
+    "mode": "webcam",
+    "ear": 0.396,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235102_293345.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:10.073913",
+    "mode": "webcam",
+    "ear": 0.4317,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235110_073913.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:14.939049",
+    "mode": "webcam",
+    "ear": 0.3951,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235114_939049.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:16.980780",
+    "mode": "webcam",
+    "ear": 0.3522,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235116_980780.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:21.025522",
+    "mode": "webcam",
+    "ear": 0.372,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235121_025522.jpg"
+  },
+  {
+    "timestamp": "2026-03-16T23:51:26.026750",
+    "mode": "webcam",
+    "ear": 0.4141,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260316_235126_026750.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:51:18.636456",
+    "mode": "webcam",
+    "ear": 0.438,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005118_636456.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:51:20.707740",
+    "mode": "webcam",
+    "ear": 0.4166,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005120_707740.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:51:27.142568",
+    "mode": "webcam",
+    "ear": 0.3648,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005127_142568.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:51:29.597687",
+    "mode": "webcam",
+    "ear": 0.4281,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005129_597687.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:51:57.693738",
+    "mode": "webcam",
+    "ear": 0.4142,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005157_693738.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:52:04.847444",
+    "mode": "webcam",
+    "ear": 0.2912,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005204_847444.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:52:08.093462",
+    "mode": "webcam",
+    "ear": 0.4087,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005208_093462.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:52:10.112347",
+    "mode": "webcam",
+    "ear": 0.1595,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005210_112347.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:52:12.977420",
+    "mode": "webcam",
+    "ear": 0.412,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005212_977420.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:15.110633",
+    "mode": "webcam",
+    "ear": 0.4002,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005315_110633.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:17.139117",
+    "mode": "webcam",
+    "ear": 0.3373,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005317_139117.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:19.162982",
+    "mode": "webcam",
+    "ear": 0.4237,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005319_162982.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:21.389028",
+    "mode": "webcam",
+    "ear": 0.2352,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005321_394522.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:24.496663",
+    "mode": "webcam",
+    "ear": 0.3584,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005324_496663.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:29.522245",
+    "mode": "webcam",
+    "ear": 0.3755,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005329_522245.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:34.431505",
+    "mode": "webcam",
+    "ear": 0.4201,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005334_431505.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:39.403444",
+    "mode": "webcam",
+    "ear": 0.4273,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005339_403444.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:41.419226",
+    "mode": "webcam",
+    "ear": 0.4504,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005341_419226.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:43.561791",
+    "mode": "webcam",
+    "ear": 0.517,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005343_561791.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:45.810679",
+    "mode": "webcam",
+    "ear": 0.5043,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005345_810679.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:50.484484",
+    "mode": "webcam",
+    "ear": 0.4055,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005350_495854.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:52.529054",
+    "mode": "webcam",
+    "ear": 0.4919,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005352_529054.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:57.543562",
+    "mode": "webcam",
+    "ear": 0.3732,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005357_543562.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:53:59.557140",
+    "mode": "webcam",
+    "ear": 0.468,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005359_557140.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:01.579085",
+    "mode": "webcam",
+    "ear": 0.4701,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005401_579085.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:03.596646",
+    "mode": "webcam",
+    "ear": 0.5021,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005403_596646.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:05.620686",
+    "mode": "webcam",
+    "ear": 0.4759,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005405_620686.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:07.826789",
+    "mode": "webcam",
+    "ear": 0.1879,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005407_826789.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:14.937058",
+    "mode": "webcam",
+    "ear": 0.4296,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005414_937058.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:16.957248",
+    "mode": "webcam",
+    "ear": 0.3824,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005416_957248.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:19.187035",
+    "mode": "webcam",
+    "ear": 0.347,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005419_187035.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:21.211939",
+    "mode": "webcam",
+    "ear": 0.2772,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005421_211939.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:23.217494",
+    "mode": "webcam",
+    "ear": 0.4305,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005423_217494.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:26.657497",
+    "mode": "webcam",
+    "ear": 0.4331,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005426_657497.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:28.676440",
+    "mode": "webcam",
+    "ear": 0.0359,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005428_676440.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:30.766962",
+    "mode": "webcam",
+    "ear": 0.3969,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005430_766962.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:32.926960",
+    "mode": "webcam",
+    "ear": 0.3577,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005432_926960.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:34.945461",
+    "mode": "webcam",
+    "ear": 0.3831,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005434_945461.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:39.084793",
+    "mode": "webcam",
+    "ear": 0.3653,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005439_084793.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:41.243404",
+    "mode": "webcam",
+    "ear": 0.0768,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005441_243404.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:44.407430",
+    "mode": "webcam",
+    "ear": 0.3543,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005444_407430.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:48.096987",
+    "mode": "webcam",
+    "ear": 0.4049,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005448_096987.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:50.148124",
+    "mode": "webcam",
+    "ear": 0.3881,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005450_148124.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:52.165606",
+    "mode": "webcam",
+    "ear": 0.3786,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005452_165606.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:54.166354",
+    "mode": "webcam",
+    "ear": 0.0457,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005454_166354.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:56.475407",
+    "mode": "webcam",
+    "ear": 0.1557,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005456_475407.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:54:58.715361",
+    "mode": "webcam",
+    "ear": 0.0918,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005458_715361.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:03.127296",
+    "mode": "webcam",
+    "ear": 0.129,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005503_127296.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:14.395115",
+    "mode": "webcam",
+    "ear": 0.0889,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005514_395115.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:16.432224",
+    "mode": "webcam",
+    "ear": 0.0649,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005516_432224.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:19.286615",
+    "mode": "webcam",
+    "ear": 0.0527,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005519_286615.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:24.038678",
+    "mode": "webcam",
+    "ear": 0.0704,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005524_038678.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:30.146237",
+    "mode": "webcam",
+    "ear": 0.3721,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005530_146237.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:34.124769",
+    "mode": "webcam",
+    "ear": 0.342,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005534_124769.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:38.966618",
+    "mode": "webcam",
+    "ear": 0.3773,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005538_966618.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:44.035139",
+    "mode": "webcam",
+    "ear": 0.3678,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005544_035139.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:46.241531",
+    "mode": "webcam",
+    "ear": 0.4016,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005546_241531.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:49.130990",
+    "mode": "webcam",
+    "ear": 0.3612,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005549_130990.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:51.131256",
+    "mode": "webcam",
+    "ear": 0.3832,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005551_131256.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:54.253712",
+    "mode": "webcam",
+    "ear": 0.3994,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005554_253712.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:56.264001",
+    "mode": "webcam",
+    "ear": 0.387,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005556_264001.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:55:58.872298",
+    "mode": "webcam",
+    "ear": 0.3461,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005558_872298.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:00.891238",
+    "mode": "webcam",
+    "ear": 0.347,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005600_891238.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:03.902809",
+    "mode": "webcam",
+    "ear": 0.3395,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005603_902809.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:05.893328",
+    "mode": "webcam",
+    "ear": 0.4037,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005605_893328.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:08.390723",
+    "mode": "webcam",
+    "ear": 0.4351,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005608_390723.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:10.424820",
+    "mode": "webcam",
+    "ear": 0.4011,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005610_424820.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:12.452885",
+    "mode": "webcam",
+    "ear": 0.4262,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005612_452885.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:16.425300",
+    "mode": "webcam",
+    "ear": 0.4427,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005616_425300.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:18.486156",
+    "mode": "webcam",
+    "ear": 0.461,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005618_486156.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:21.608070",
+    "mode": "webcam",
+    "ear": 0.4587,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005621_608070.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:23.639046",
+    "mode": "webcam",
+    "ear": 0.4828,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005623_639046.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:25.674520",
+    "mode": "webcam",
+    "ear": 0.3209,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005625_674520.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:28.305220",
+    "mode": "webcam",
+    "ear": 0.4633,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005628_305220.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:30.324542",
+    "mode": "webcam",
+    "ear": 0.4174,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005630_324542.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:32.326506",
+    "mode": "webcam",
+    "ear": 0.4471,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005632_326506.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:34.798172",
+    "mode": "webcam",
+    "ear": 0.4404,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005634_798172.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:36.832532",
+    "mode": "webcam",
+    "ear": 0.4412,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005636_832532.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:39.226935",
+    "mode": "webcam",
+    "ear": 0.4457,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005639_226935.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:41.290901",
+    "mode": "webcam",
+    "ear": 0.3683,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005641_290901.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:43.294096",
+    "mode": "webcam",
+    "ear": 0.419,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005643_294096.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:45.501827",
+    "mode": "webcam",
+    "ear": 0.2827,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005645_501827.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:47.520985",
+    "mode": "webcam",
+    "ear": 0.4135,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005647_520985.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:49.539780",
+    "mode": "webcam",
+    "ear": 0.3861,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005649_539780.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:51.574474",
+    "mode": "webcam",
+    "ear": 0.371,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005651_574474.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:53.613123",
+    "mode": "webcam",
+    "ear": 0.0512,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005653_613123.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:56:57.603780",
+    "mode": "webcam",
+    "ear": 0.0989,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005657_603780.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:02.420289",
+    "mode": "webcam",
+    "ear": 0.13,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005702_420289.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:19.385890",
+    "mode": "webcam",
+    "ear": 0.067,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005719_385890.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:23.575939",
+    "mode": "webcam",
+    "ear": 0.2672,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005723_575939.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:25.589024",
+    "mode": "webcam",
+    "ear": 0.1347,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005725_589024.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:28.744214",
+    "mode": "webcam",
+    "ear": 0.2849,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005728_744214.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:33.695937",
+    "mode": "webcam",
+    "ear": 0.2826,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005733_695937.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:38.987420",
+    "mode": "webcam",
+    "ear": 0.3194,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005738_987420.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:41.028901",
+    "mode": "webcam",
+    "ear": 0.3036,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005741_028901.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:44.912783",
+    "mode": "webcam",
+    "ear": 0.3247,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005744_912783.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:49.809442",
+    "mode": "webcam",
+    "ear": 0.3148,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005749_809442.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:54.809012",
+    "mode": "webcam",
+    "ear": 0.3379,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005754_809012.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:57:58.193356",
+    "mode": "webcam",
+    "ear": 0.3728,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005758_193356.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:01.574801",
+    "mode": "webcam",
+    "ear": 0.3952,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005801_574801.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:04.743738",
+    "mode": "webcam",
+    "ear": 0.3888,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005804_743738.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:06.774835",
+    "mode": "webcam",
+    "ear": 0.4194,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005806_774835.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:10.477128",
+    "mode": "webcam",
+    "ear": 0.413,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005810_477128.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:12.489074",
+    "mode": "webcam",
+    "ear": 0.3732,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005812_489074.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:17.807354",
+    "mode": "webcam",
+    "ear": 0.4094,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005817_807354.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:19.846227",
+    "mode": "webcam",
+    "ear": 0.4249,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005819_846227.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:23.947331",
+    "mode": "webcam",
+    "ear": 0.4066,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005823_947331.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:25.952466",
+    "mode": "webcam",
+    "ear": 0.4173,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005825_952466.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:29.615469",
+    "mode": "webcam",
+    "ear": 0.3306,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005829_615469.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:31.616047",
+    "mode": "webcam",
+    "ear": 0.3859,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005831_616047.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:34.609083",
+    "mode": "webcam",
+    "ear": 0.4034,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005834_609083.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:36.620531",
+    "mode": "webcam",
+    "ear": 0.2879,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005836_620531.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:39.599938",
+    "mode": "webcam",
+    "ear": 0.2757,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005839_599938.jpg"
+  },
+  {
+    "timestamp": "2026-03-17T00:58:44.652055",
+    "mode": "webcam",
+    "ear": 0.1031,
+    "status": "DROWSY",
+    "image_path": "/outputs/events/drowsy_webcam_20260317_005844_652055.jpg"
+  }
+]
