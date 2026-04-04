@@ -10,6 +10,7 @@
 <div align="center">
 
 [![IRJET Published](https://img.shields.io/badge/IRJET-Vol.13%20|%20Issue%2003%20|%20IF%3A8.315-red?style=for-the-badge)](https://www.irjet.net/volume13-issue03)
+
 **📄 Published:** "Face Map AI – A Deep Convolutional Neural Network with Adaptive Attention for Robust Real-Time Face Landmark Detection"  
 **Journal:** IRJET | **Volume:** 13 | **Issue:** 03 | **Month:** March 2026 | **Impact Factor:** 8.315
 
@@ -37,12 +38,12 @@ Traditional monitoring systems rely on:
 
 FaceMapAI continuously monitors a driver's face via a standard webcam and detects drowsiness using **3 independent physiological signals** — before it becomes dangerous.
 
-<div align="center">
 
-![System Architecture](screenshots/architecture.png)
+**System Architecture**
+<img width="1013" height="553" alt="image" src="https://github.com/user-attachments/assets/8fe70d1d-01af-4557-8385-7f41c8cabefc" />
+
 *Fig: End-to-end system architecture of FaceMapAI*
 
-</div>
 
 ---
 
@@ -79,28 +80,29 @@ Webcam Input → Frame Capture → MediaPipe Face Mesh (468 landmarks)
 ## 📊 Results
 
 ### 🟢 Active / Normal State
-<div align="center">
 
-![Normal State](screenshots/normal.png)
+
+**Normal State**
+
+<img width="940" height="475" alt="image" src="https://github.com/user-attachments/assets/780ac9a8-9e4c-4f9f-a291-49d6eb764caa" />
+
 *Driver alert — EAR: 0.323 | MAR: 0.004 | Risk: Safe*
 
-</div>
-
 ### 🔴 Drowsiness Detected
-<div align="center">
 
-![Drowsy State](screenshots/drowsy.png)
+**Drowsy State**
+
+<img width="928" height="474" alt="image" src="https://github.com/user-attachments/assets/39062877-1aba-4733-875c-a4fd4a741062" />
+
 *Drowsiness detected — EAR: 0.156 | Risk: CRITICAL | Alert triggered*
 
-</div>
-
 ### 🖼️ Image-Based Analysis
-<div align="center">
 
-![Image Analysis](screenshots/image_analysis.png)
+**Image Analysis**
+
+<img width="935" height="513" alt="image" src="https://github.com/user-attachments/assets/7fbbedc3-1618-474a-9bf5-10a9689c7882" />
+
 *Static image analysis mode with side-by-side comparison*
-
-</div>
 
 ### Performance Metrics
 
@@ -180,15 +182,6 @@ FaceMapAI/
 B.Tech CSE (AIML) — Malla Reddy University, 2026  
 Guide: Prof. T. Vinay Simha Reddy
 
----
-<div align="center">
-Made with ❤️ for safer roads
-</div>
-## 📚 References
-
-Built on top of research by Google MediaPipe team, and validated by published work on EAR-based drowsiness detection (Soukupová & Čech, 2016) and MediaPipe-based driver monitoring systems.
-
----
 
 <div align="center">
 Made with ❤️ for safer roads | Malla Reddy University, 2026
