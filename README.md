@@ -1,4 +1,4 @@
-# 🧠 FaceMapAI — Real-Time Driver Drowsiness Detection System
+# FaceMapAI — Real-Time Driver Drowsiness Detection System
 
 <div align="center">
 
